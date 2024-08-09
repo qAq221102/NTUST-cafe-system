@@ -1,0 +1,1567 @@
+{
+  "schoolname" : "NTUST",
+  "restaurantlist" : [ {
+    "restaurantname" : "一餐(活一)",
+    "vendorlist" : [ {
+      "vendorname" : "優米自助餐",
+      "note" : "主菜(肉類、海鮮)過秤後 第一份主食不加價。第二份主食肉類+10元",
+      "itemList" : [ {
+        "price" : 20,
+        "itemname" : "秤重每100克"
+      }, {
+        "price" : 10,
+        "itemname" : "白飯1碗"
+      }, {
+        "price" : 5,
+        "itemname" : "白飯半碗"
+      } ]
+    }, {
+      "vendorname" : "強尼兄弟健康廚房",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 99,
+        "itemname" : "黑胡椒嫩煎雞胸餐盒"
+      }, {
+        "price" : 108,
+        "itemname" : "照燒風味雞胸餐盒"
+      }, {
+        "price" : 108,
+        "itemname" : "蒜香椒鹽雞胸餐盒"
+      }, {
+        "price" : 89,
+        "itemname" : "紐奧良棒腿餐盒"
+      }, {
+        "price" : 85,
+        "itemname" : "泰式酸辣巴沙魚"
+      }, {
+        "price" : 76,
+        "itemname" : "新鮮蔬食菜飯"
+      }, {
+        "price" : 175,
+        "itemname" : "牛雞雙重奏餐盒"
+      }, {
+        "price" : 107,
+        "itemname" : "柚香胡麻梅花豬餐盒"
+      }, {
+        "price" : 110,
+        "itemname" : "柚香胡麻雪花牛餐盒"
+      }, {
+        "price" : 89,
+        "itemname" : "蒜泥豬肉片餐盒"
+      }, {
+        "price" : 105,
+        "itemname" : "泰式打拋豬餐盒"
+      }, {
+        "price" : 116,
+        "itemname" : "香蔥雞腿排餐盒"
+      }, {
+        "price" : 129,
+        "itemname" : "檸香松阪豬餐盒"
+      }, {
+        "price" : 140,
+        "itemname" : "精燉滷牛腱餐盒"
+      }, {
+        "price" : 103,
+        "itemname" : "日式牛肉"
+      }, {
+        "price" : 79,
+        "itemname" : "油蔥雞肉餐盒"
+      }, {
+        "price" : 57,
+        "itemname" : "柚香胡麻梅花豬/單點"
+      }, {
+        "price" : 66,
+        "itemname" : "柚香胡麻雪花牛/單點"
+      }, {
+        "price" : 50,
+        "itemname" : "黑胡椒嫩煎雞胸/單點"
+      }, {
+        "price" : 55,
+        "itemname" : "照燒風味雞胸餐盒/單點"
+      }, {
+        "price" : 55,
+        "itemname" : "蒜香椒鹽雞胸/單點"
+      }, {
+        "price" : 50,
+        "itemname" : "紐奧良棒腿/單點"
+      }, {
+        "price" : 46,
+        "itemname" : "泰式酸辣巴沙魚/單點"
+      }, {
+        "price" : 91,
+        "itemname" : "精燉滷牛腱/單點"
+      }, {
+        "price" : 54,
+        "itemname" : "蒜泥豬肉片/單點"
+      }, {
+        "price" : 81,
+        "itemname" : "檸香松阪豬/單點"
+      }, {
+        "price" : 59,
+        "itemname" : "香蔥雞腿排/單點"
+      }, {
+        "price" : 31,
+        "itemname" : "冬瓜檸檬"
+      }, {
+        "price" : 40,
+        "itemname" : "紅豆水"
+      }, {
+        "price" : 27,
+        "itemname" : "無糖豆漿"
+      }, {
+        "price" : 40,
+        "itemname" : "金萱冷泡茶"
+      }, {
+        "price" : 62,
+        "itemname" : "蔓越莓氣泡飲"
+      }, {
+        "price" : 53,
+        "itemname" : "蒜頭雞湯"
+      }, {
+        "price" : 53,
+        "itemname" : "剝皮辣椒雞湯"
+      }, {
+        "price" : 35,
+        "itemname" : "牛肉清湯"
+      }, {
+        "price" : 53,
+        "itemname" : "經典羅宋湯"
+      } ]
+    }, {
+      "vendorname" : "御便當",
+      "note" : "定食附三樣配菜（雙拼除外）。定食 or 丼飯 +20元可升級咖哩飯",
+      "itemList" : [ {
+        "price" : 85,
+        "itemname" : "梅花豬肉片定食"
+      }, {
+        "price" : 85,
+        "itemname" : "嫩雞柳定食"
+      }, {
+        "price" : 80,
+        "itemname" : "豬排定食"
+      }, {
+        "price" : 80,
+        "itemname" : "鯛魚定食"
+      }, {
+        "price" : 85,
+        "itemname" : "卡啦雞定食"
+      }, {
+        "price" : 80,
+        "itemname" : "唐揚雞定食"
+      }, {
+        "price" : 80,
+        "itemname" : "燒肉定食"
+      }, {
+        "price" : 90,
+        "itemname" : "牛肉定食"
+      }, {
+        "price" : 60,
+        "itemname" : "菜飯"
+      }, {
+        "price" : 80,
+        "itemname" : "咖喱飯"
+      }, {
+        "price" : 90,
+        "itemname" : "黃金雞排定食"
+      }, {
+        "price" : 85,
+        "itemname" : "滑蛋燒肉丼"
+      }, {
+        "price" : 95,
+        "itemname" : "溫蛋牛丼"
+      }, {
+        "price" : 85,
+        "itemname" : "豬排丼"
+      }, {
+        "price" : 90,
+        "itemname" : "卡啦雞丼"
+      }, {
+        "price" : 85,
+        "itemname" : "唐揚雞丼"
+      }, {
+        "price" : 85,
+        "itemname" : "蒲燒鯛魚丼"
+      }, {
+        "price" : 80,
+        "itemname" : "親子丼"
+      }, {
+        "price" : 110,
+        "itemname" : "燒肉+牛肉+滑蛋丼"
+      }, {
+        "price" : 110,
+        "itemname" : "豬排+雞肉+滑蛋丼"
+      }, {
+        "price" : 110,
+        "itemname" : "雞肉+牛肉+滑蛋丼"
+      }, {
+        "price" : 50,
+        "itemname" : "梅花肉一份"
+      }, {
+        "price" : 50,
+        "itemname" : "黃金雞排一塊"
+      }, {
+        "price" : 50,
+        "itemname" : "嫩雞柳一份"
+      }, {
+        "price" : 40,
+        "itemname" : "豬排一塊"
+      }, {
+        "price" : 50,
+        "itemname" : "卡啦雞一塊"
+      }, {
+        "price" : 50,
+        "itemname" : "蒲燒鯛魚一塊"
+      }, {
+        "price" : 50,
+        "itemname" : "唐揚雞一份"
+      }, {
+        "price" : 15,
+        "itemname" : "荷包蛋"
+      }, {
+        "price" : 10,
+        "itemname" : "水煮蛋"
+      }, {
+        "price" : 5,
+        "itemname" : "加飯"
+      }, {
+        "price" : 10,
+        "itemname" : "加一樣菜"
+      }, {
+        "price" : 20,
+        "itemname" : "加三樣菜"
+      }, {
+        "price" : 30,
+        "itemname" : "單點甜不辣"
+      } ]
+    }, {
+      "vendorname" : "李媽媽麵店",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 50,
+        "itemname" : "傻瓜大乾麵"
+      }, {
+        "price" : 55,
+        "itemname" : "肉燥大乾麵"
+      }, {
+        "price" : 55,
+        "itemname" : "擔仔麵"
+      }, {
+        "price" : 55,
+        "itemname" : "切仔麵"
+      }, {
+        "price" : 55,
+        "itemname" : "貢丸麵"
+      }, {
+        "price" : 55,
+        "itemname" : "魚丸麵"
+      }, {
+        "price" : 65,
+        "itemname" : "大滷麵"
+      }, {
+        "price" : 65,
+        "itemname" : "哨子麵"
+      }, {
+        "price" : 85,
+        "itemname" : "香菇雞麵/飯"
+      }, {
+        "price" : 85,
+        "itemname" : "麻油雞麵/飯"
+      }, {
+        "price" : 85,
+        "itemname" : "十全大補雞麵/飯"
+      }, {
+        "price" : 65,
+        "itemname" : "赤肉雞麵/飯"
+      }, {
+        "price" : 65,
+        "itemname" : "魷魚羹麵/飯"
+      }, {
+        "price" : 65,
+        "itemname" : "花枝羹麵/飯"
+      }, {
+        "price" : 30,
+        "itemname" : "燙青菜"
+      }, {
+        "price" : 55,
+        "itemname" : "麻婆豆腐麵/飯"
+      }, {
+        "price" : 35,
+        "itemname" : "青菜豆腐湯"
+      }, {
+        "price" : 30,
+        "itemname" : "魚丸湯"
+      }, {
+        "price" : 30,
+        "itemname" : "貢丸湯"
+      }, {
+        "price" : 30,
+        "itemname" : "酸辣湯"
+      }, {
+        "price" : 65,
+        "itemname" : "香菇雞湯"
+      }, {
+        "price" : 65,
+        "itemname" : "麻油雞湯"
+      }, {
+        "price" : 65,
+        "itemname" : "十全大補雞湯"
+      }, {
+        "price" : 95,
+        "itemname" : "十錦雞肉冬粉煲"
+      }, {
+        "price" : 95,
+        "itemname" : "蘿蔔燒肉冬粉煲"
+      }, {
+        "price" : 85,
+        "itemname" : "酸菜豬肉鍋"
+      }, {
+        "price" : 85,
+        "itemname" : "菇菇豬肉鍋"
+      }, {
+        "price" : 85,
+        "itemname" : "蔬菜豬肉鍋"
+      }, {
+        "price" : 95,
+        "itemname" : "麻辣豬肉鍋"
+      }, {
+        "price" : 85,
+        "itemname" : "泡菜豬肉鍋"
+      }, {
+        "price" : 85,
+        "itemname" : "雞肉蔬菜鍋"
+      }, {
+        "price" : 80,
+        "itemname" : "起司番茄肉醬飯/麵"
+      }, {
+        "price" : 50,
+        "itemname" : "鮮肉餛飩湯"
+      }, {
+        "price" : 60,
+        "itemname" : "鮮肉餛飩麵"
+      }, {
+        "price" : 60,
+        "itemname" : "鮮肉餛飩乾麵"
+      }, {
+        "price" : 65,
+        "itemname" : "酸辣餛飩麵"
+      }, {
+        "price" : 50,
+        "itemname" : "紅油炒手"
+      }, {
+        "price" : 60,
+        "itemname" : "紅油炒手麵"
+      }, {
+        "price" : 75,
+        "itemname" : "韭菜大水餃(12顆)"
+      }, {
+        "price" : 75,
+        "itemname" : "高麗菜大水餃(12顆)"
+      }, {
+        "price" : 85,
+        "itemname" : "酸辣湯餃麵"
+      }, {
+        "price" : 85,
+        "itemname" : "香菇雞湯湯餃麵"
+      }, {
+        "price" : 10,
+        "itemname" : "加麵"
+      } ]
+    }, {
+      "vendorname" : "溫州大餛飩",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 100,
+        "itemname" : "老虎麵+綜合餛飩麵"
+      }, {
+        "price" : 100,
+        "itemname" : "炸醬麵+綜合餛飩麵"
+      }, {
+        "price" : 100,
+        "itemname" : "炸醬麵+綜合餛飩麵"
+      }, {
+        "price" : 100,
+        "itemname" : "旦旦麵+綜合餛飩麵"
+      }, {
+        "price" : 70,
+        "itemname" : "蝦肉炒手"
+      }, {
+        "price" : 65,
+        "itemname" : "菜肉炒手"
+      }, {
+        "price" : 60,
+        "itemname" : "鮮肉炒手"
+      }, {
+        "price" : 65,
+        "itemname" : " 蝦肉餛飩湯"
+      }, {
+        "price" : 60,
+        "itemname" : " 菜肉餛飩湯"
+      }, {
+        "price" : 55,
+        "itemname" : " 鮮肉餛飩湯"
+      }, {
+        "price" : 30,
+        "itemname" : "青菜豆腐湯"
+      }, {
+        "price" : 55,
+        "itemname" : "瘦肉湯"
+      }, {
+        "price" : 55,
+        "itemname" : "豬肝湯"
+      }, {
+        "price" : 65,
+        "itemname" : "虱目魚雜湯"
+      }, {
+        "price" : 60,
+        "itemname" : "番茄蛋花湯"
+      }, {
+        "price" : 70,
+        "itemname" : " 蝦肉餛飩麵"
+      }, {
+        "price" : 65,
+        "itemname" : " 菜肉餛飩麵"
+      }, {
+        "price" : 60,
+        "itemname" : " 鮮肉餛飩麵"
+      }, {
+        "price" : 75,
+        "itemname" : "虱目魚雜麵"
+      }, {
+        "price" : 80,
+        "itemname" : "榨菜肉絲麵"
+      }, {
+        "price" : 85,
+        "itemname" : " 牛肉河粉"
+      }, {
+        "price" : 85,
+        "itemname" : " 豬肉河粉"
+      }, {
+        "price" : 85,
+        "itemname" : " 過橋米線"
+      }, {
+        "price" : 80,
+        "itemname" : "瘦肉麵"
+      }, {
+        "price" : 75,
+        "itemname" : "豬肝麵"
+      }, {
+        "price" : 75,
+        "itemname" : "嘴邊肉麵"
+      }, {
+        "price" : 75,
+        "itemname" : "番茄蛋花麵"
+      }, {
+        "price" : 60,
+        "itemname" : "清江豆腐麵"
+      }, {
+        "price" : 50,
+        "itemname" : "魯肉飯"
+      }, {
+        "price" : 90,
+        "itemname" : "蝦肉炒手麵"
+      }, {
+        "price" : 85,
+        "itemname" : "菜肉炒手麵"
+      }, {
+        "price" : 80,
+        "itemname" : "鮮肉炒手麵"
+      }, {
+        "price" : 55,
+        "itemname" : "香辣老虎麵"
+      }, {
+        "price" : 55,
+        "itemname" : "炸醬麵"
+      }, {
+        "price" : 50,
+        "itemname" : "麻醬麵"
+      }, {
+        "price" : 50,
+        "itemname" : "旦旦麵"
+      }, {
+        "price" : 75,
+        "itemname" : "乾拌粉"
+      }, {
+        "price" : 75,
+        "itemname" : "酸辣粉"
+      }, {
+        "price" : 65,
+        "itemname" : "雙醬麵"
+      }, {
+        "price" : 85,
+        "itemname" : "沙茶牛肉炒麵"
+      }, {
+        "price" : 85,
+        "itemname" : "沙茶羊肉炒麵"
+      }, {
+        "price" : 80,
+        "itemname" : "沙茶豬肉炒麵"
+      }, {
+        "price" : 85,
+        "itemname" : "蝦仁炒麵"
+      }, {
+        "price" : 70,
+        "itemname" : "蔬菜炒麵"
+      }, {
+        "price" : 85,
+        "itemname" : "蝦仁蛋炒飯"
+      }, {
+        "price" : 75,
+        "itemname" : "香腸蛋炒飯"
+      }, {
+        "price" : 75,
+        "itemname" : "火腿蛋炒飯"
+      }, {
+        "price" : 75,
+        "itemname" : "肉絲蛋炒飯"
+      }, {
+        "price" : 85,
+        "itemname" : "牛肉炒飯"
+      }, {
+        "price" : 85,
+        "itemname" : "羊肉炒飯"
+      }, {
+        "price" : 75,
+        "itemname" : "鯖魚炒飯"
+      } ]
+    } ]
+  }, {
+    "restaurantname" : "三餐(二教)",
+    "vendorlist" : [ {
+      "vendorname" : "京都日式",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 80,
+        "itemname" : "燒肉丼"
+      }, {
+        "price" : 80,
+        "itemname" : "親子丼"
+      }, {
+        "price" : 85,
+        "itemname" : "豬排丼"
+      }, {
+        "price" : 90,
+        "itemname" : "牛丼"
+      }, {
+        "price" : 85,
+        "itemname" : "柳葉魚丼"
+      }, {
+        "price" : 90,
+        "itemname" : "脆雞丼"
+      }, {
+        "price" : 85,
+        "itemname" : "蒲燒鯛魚丼"
+      }, {
+        "price" : 85,
+        "itemname" : "唐揚雞丼"
+      }, {
+        "price" : 60,
+        "itemname" : "菜飯"
+      }, {
+        "price" : 85,
+        "itemname" : "炙燒無骨雞腿排定食"
+      }, {
+        "price" : 80,
+        "itemname" : "唐揚雞雞腿定食"
+      }, {
+        "price" : 80,
+        "itemname" : "日式豬排定食"
+      }, {
+        "price" : 80,
+        "itemname" : "柳葉魚定食"
+      }, {
+        "price" : 80,
+        "itemname" : "日式魚排定食"
+      }, {
+        "price" : 80,
+        "itemname" : "蒲燒鯛魚定食"
+      }, {
+        "price" : 85,
+        "itemname" : "梅花豬肉片定食"
+      }, {
+        "price" : 85,
+        "itemname" : "嫩雞柳定食"
+      }, {
+        "price" : 70,
+        "itemname" : "咖哩飯"
+      }, {
+        "price" : 85,
+        "itemname" : "脆雞定食"
+      }, {
+        "price" : 50,
+        "itemname" : "脆雞一塊"
+      }, {
+        "price" : 40,
+        "itemname" : "豬排一塊"
+      }, {
+        "price" : 50,
+        "itemname" : "唐揚雞一份八塊"
+      }, {
+        "price" : 40,
+        "itemname" : "蒲燒鯛魚一份"
+      }, {
+        "price" : 50,
+        "itemname" : "梅花肉片一份"
+      }, {
+        "price" : 50,
+        "itemname" : "嫩雞柳一份"
+      }, {
+        "price" : 20,
+        "itemname" : "丼飯/定食 加咖哩醬"
+      } ]
+    }, {
+      "vendorname" : "八方雲集",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 6,
+        "itemname" : "招牌鍋貼"
+      }, {
+        "price" : 6,
+        "itemname" : "韭菜鍋貼"
+      }, {
+        "price" : 6,
+        "itemname" : "韓式辣味鍋貼"
+      }, {
+        "price" : 6,
+        "itemname" : "韭菜水餃"
+      }, {
+        "price" : 6,
+        "itemname" : "韓式辣味水餃"
+      }, {
+        "price" : 6,
+        "itemname" : "咖哩水餃"
+      }, {
+        "price" : 75,
+        "itemname" : "酸辣湯餃"
+      }, {
+        "price" : 75,
+        "itemname" : "玉米湯餃"
+      }, {
+        "price" : 20,
+        "itemname" : "白豆漿"
+      }, {
+        "price" : 20,
+        "itemname" : "黑豆漿"
+      }, {
+        "price" : 55,
+        "itemname" : "酸辣麵"
+      }, {
+        "price" : 35,
+        "itemname" : "酸辣湯"
+      }, {
+        "price" : 35,
+        "itemname" : "玉米湯"
+      }, {
+        "price" : 35,
+        "itemname" : "魚丸湯"
+      }, {
+        "price" : 6,
+        "itemname" : "招牌水餃"
+      }, {
+        "price" : 6,
+        "itemname" : "玉米水餃"
+      }, {
+        "price" : 9,
+        "itemname" : "鮮蝦水餃"
+      }, {
+        "price" : 35,
+        "itemname" : "古早味乾麵"
+      }, {
+        "price" : 45,
+        "itemname" : "招牌乾麵"
+      }, {
+        "price" : 45,
+        "itemname" : "麻醬乾麵"
+      }, {
+        "price" : 50,
+        "itemname" : "紹辣乾麵"
+      }, {
+        "price" : 35,
+        "itemname" : "古早味湯麵"
+      }, {
+        "price" : 75,
+        "itemname" : "紹辣菜肉大餛鈍麵"
+      }, {
+        "price" : 65,
+        "itemname" : "菜肉大餛鈍麵"
+      }, {
+        "price" : 65,
+        "itemname" : "菜肉大炒手"
+      }, {
+        "price" : 50,
+        "itemname" : "菜肉大餛鈍湯"
+      }, {
+        "price" : 80,
+        "itemname" : "十個招牌水餃＋湯品"
+      }, {
+        "price" : 85,
+        "itemname" : "十個韭菜水餃＋湯品"
+      }, {
+        "price" : 80,
+        "itemname" : "十個招牌鍋貼＋湯品"
+      }, {
+        "price" : 85,
+        "itemname" : "十個韭菜鍋貼＋湯品"
+      }, {
+        "price" : 75,
+        "itemname" : "酸辣麵＋五個招牌鍋貼"
+      }, {
+        "price" : 70,
+        "itemname" : "十個招牌鍋貼＋豆漿"
+      }, {
+        "price" : 70,
+        "itemname" : "十個招牌水餃＋豆漿"
+      }, {
+        "price" : 70,
+        "itemname" : "十個韭菜水餃＋豆漿"
+      }, {
+        "price" : 45,
+        "itemname" : "古早味＋豆漿"
+      }, {
+        "price" : 55,
+        "itemname" : "古早味＋湯品"
+      }, {
+        "price" : 55,
+        "itemname" : "麻醬/招牌乾麵＋豆漿"
+      }, {
+        "price" : 65,
+        "itemname" : "麻醬/招牌乾麵＋湯品"
+      } ]
+    }, {
+      "vendorname" : "天津蔥抓餅",
+      "note" : "所有品項無飲料減5元",
+      "itemList" : [ {
+        "price" : 35,
+        "itemname" : "原味蔥抓餅"
+      }, {
+        "price" : 45,
+        "itemname" : "蔥抓餅+蛋"
+      }, {
+        "price" : 65,
+        "itemname" : "抓餅蛋+薯餅+飲料"
+      }, {
+        "price" : 65,
+        "itemname" : "抓餅蛋+雞塊3個+飲料"
+      }, {
+        "price" : 75,
+        "itemname" : "抓餅蛋+日式炸飯糰+飲料"
+      }, {
+        "price" : 55,
+        "itemname" : "抓餅蛋+火腿+飲料"
+      }, {
+        "price" : 85,
+        "itemname" : "抓餅蛋+厚切牛肉+飲料"
+      }, {
+        "price" : 75,
+        "itemname" : "抓餅蛋+雙肉(香雞,豬肉)"
+      }, {
+        "price" : 75,
+        "itemname" : "抓餅蛋+雞排+飲料"
+      }, {
+        "price" : 75,
+        "itemname" : "抓餅蛋+總匯+飲料"
+      }, {
+        "price" : 75,
+        "itemname" : "抓餅蛋+脆皮雞肉捲"
+      }, {
+        "price" : 75,
+        "itemname" : "抓餅蛋+花枝排+飲料"
+      }, {
+        "price" : 85,
+        "itemname" : "抓餅蛋+卡拉雞腿+飲料"
+      }, {
+        "price" : 85,
+        "itemname" : "抓餅蛋+勁辣雞腿排+飲料"
+      }, {
+        "price" : 75,
+        "itemname" : "抓餅蛋+魚排+飲料"
+      }, {
+        "price" : 60,
+        "itemname" : "抓餅蛋+香雞+飲料"
+      }, {
+        "price" : 65,
+        "itemname" : "抓餅蛋+豬排+飲料"
+      }, {
+        "price" : 75,
+        "itemname" : "抓餅蛋+泡菜起司+飲料"
+      }, {
+        "price" : 65,
+        "itemname" : "抓餅蛋+小熱狗三條+飲料"
+      }, {
+        "price" : 80,
+        "itemname" : "抓餅蛋+三寶(香雞,豬排,火腿)+飲料"
+      }, {
+        "price" : 65,
+        "itemname" : "抓餅+蔬菜蛋+飲料"
+      }, {
+        "price" : 70,
+        "itemname" : "抓餅麵+蛋+飲料"
+      } ]
+    }, {
+      "vendorname" : "帝一味",
+      "note" : "主菜(肉類、海鮮)過秤後第一份主食不加價。第二份主食肉類+10元。",
+      "itemList" : [ {
+        "price" : 20,
+        "itemname" : "秤重每100克"
+      }, {
+        "price" : 10,
+        "itemname" : "白飯1碗"
+      }, {
+        "price" : 5,
+        "itemname" : "白飯半碗"
+      }, {
+        "price" : 15,
+        "itemname" : "紫米飯1碗"
+      }, {
+        "price" : 8,
+        "itemname" : "紫米飯半碗"
+      } ]
+    }, {
+      "vendorname" : "泰Hi",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 85,
+        "itemname" : "紅咖哩雞飯"
+      }, {
+        "price" : 85,
+        "itemname" : "綠咖哩雞飯"
+      }, {
+        "price" : 85,
+        "itemname" : "馬沙曼咖哩雞飯"
+      }, {
+        "price" : 85,
+        "itemname" : "黃咖哩雞飯"
+      }, {
+        "price" : 85,
+        "itemname" : "三味咖哩雞飯"
+      }, {
+        "price" : 95,
+        "itemname" : "椒麻雞飯"
+      }, {
+        "price" : 95,
+        "itemname" : "紅咖哩牛飯"
+      }, {
+        "price" : 95,
+        "itemname" : "綠咖哩牛飯"
+      }, {
+        "price" : 95,
+        "itemname" : "打拋牛飯"
+      }, {
+        "price" : 80,
+        "itemname" : "三味魚飯"
+      }, {
+        "price" : 60,
+        "itemname" : "菜飯"
+      }, {
+        "price" : 50,
+        "itemname" : "咖哩雞"
+      }, {
+        "price" : 50,
+        "itemname" : "炸雞排"
+      }, {
+        "price" : 60,
+        "itemname" : "椒麻雞"
+      }, {
+        "price" : 60,
+        "itemname" : "咖哩牛"
+      } ]
+    }, {
+      "vendorname" : "活力讚早餐",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 80,
+        "itemname" : "韓式辣雞漢堡蛋+薯餅+奶茶"
+      }, {
+        "price" : 75,
+        "itemname" : "卡啦雞腿漢堡蛋+薯餅+奶茶"
+      }, {
+        "price" : 78,
+        "itemname" : "厚切雞腿漢堡蛋+薯餅+奶茶"
+      }, {
+        "price" : 70,
+        "itemname" : "豬肉起司漢堡蛋+薯餅+奶茶"
+      }, {
+        "price" : 68,
+        "itemname" : "里肌豬排漢堡蛋+薯餅+奶茶"
+      }, {
+        "price" : 78,
+        "itemname" : "菲力雞排蛋漢堡+薯餅+奶茶"
+      }, {
+        "price" : 445,
+        "itemname" : "薯餅蛋漢堡+奶茶"
+      }, {
+        "price" : 75,
+        "itemname" : "牛肉漢堡蛋+奶茶"
+      }, {
+        "price" : 65,
+        "itemname" : "魚排漢堡蛋+奶茶"
+      }, {
+        "price" : 45,
+        "itemname" : "烤火腿起司蛋+奶茶"
+      }, {
+        "price" : 45,
+        "itemname" : "烤鮪魚蛋吐司+奶茶"
+      }, {
+        "price" : 60,
+        "itemname" : "烤總匯三明治+奶茶"
+      }, {
+        "price" : 50,
+        "itemname" : "黑胡椒鐵板麵+奶茶"
+      }, {
+        "price" : 68,
+        "itemname" : "黑胡椒鐵板麵+里肌豬排+奶茶"
+      }, {
+        "price" : 65,
+        "itemname" : "辣雞丁鐵板麵+奶茶"
+      }, {
+        "price" : 68,
+        "itemname" : "玉米蛋餅+雞塊+奶茶"
+      }, {
+        "price" : 63,
+        "itemname" : "蘿蔔糕+玉米蛋餅+奶茶"
+      }, {
+        "price" : 45,
+        "itemname" : "蘿蔔糕+蛋+奶茶"
+      }, {
+        "price" : 55,
+        "itemname" : "煎餃+薯餅+奶茶"
+      }, {
+        "price" : 65,
+        "itemname" : "德國香腸潛艇堡(三選一)+奶茶"
+      }, {
+        "price" : 30,
+        "itemname" : "豬肉堡"
+      }, {
+        "price" : 30,
+        "itemname" : "鮪魚堡"
+      }, {
+        "price" : 35,
+        "itemname" : "薯餅堡"
+      }, {
+        "price" : 35,
+        "itemname" : "香雞排堡"
+      }, {
+        "price" : 35,
+        "itemname" : "里肌豬排堡"
+      }, {
+        "price" : 50,
+        "itemname" : "厚切辣味雞腿排堡"
+      }, {
+        "price" : 50,
+        "itemname" : "檸檬雞堡"
+      }, {
+        "price" : 45,
+        "itemname" : "卡啦雞堡"
+      }, {
+        "price" : 50,
+        "itemname" : "韓式辣味雞堡"
+      }, {
+        "price" : 50,
+        "itemname" : "魚排堡"
+      }, {
+        "price" : 50,
+        "itemname" : "菲力雞漢堡"
+      }, {
+        "price" : 22,
+        "itemname" : "烤火腿吐司"
+      }, {
+        "price" : 22,
+        "itemname" : "烤肉鬆吐司"
+      }, {
+        "price" : 25,
+        "itemname" : "烤鮪魚吐司"
+      }, {
+        "price" : 25,
+        "itemname" : "烤培根吐司"
+      }, {
+        "price" : 30,
+        "itemname" : "烤薯餅吐司"
+      }, {
+        "price" : 30,
+        "itemname" : "烤香雞排吐司"
+      }, {
+        "price" : 30,
+        "itemname" : "烤豬肉吐司"
+      }, {
+        "price" : 35,
+        "itemname" : "烤里肌豬排吐司"
+      }, {
+        "price" : 50,
+        "itemname" : "烤厚切辣味雞腿排吐司"
+      }, {
+        "price" : 50,
+        "itemname" : "烤檸檬雞吐司"
+      }, {
+        "price" : 50,
+        "itemname" : "烤韓式辣味雞吐司"
+      }, {
+        "price" : 50,
+        "itemname" : "烤魚排吐司"
+      }, {
+        "price" : 50,
+        "itemname" : "菲力雞吐司"
+      }, {
+        "price" : 50,
+        "itemname" : "總匯"
+      }, {
+        "price" : 50,
+        "itemname" : "水果蔬菜總匯"
+      }, {
+        "price" : 20,
+        "itemname" : "蛋餅"
+      }, {
+        "price" : 26,
+        "itemname" : "蛋餅(火腿/肉鬆/玉米)"
+      }, {
+        "price" : 30,
+        "itemname" : "蛋餅(培根/起司/鮪魚)"
+      }, {
+        "price" : 35,
+        "itemname" : "薯餅蛋餅"
+      }, {
+        "price" : 40,
+        "itemname" : "里肌豬排蛋餅"
+      }, {
+        "price" : 11,
+        "itemname" : "荷包蛋"
+      }, {
+        "price" : 15,
+        "itemname" : "薯餅"
+      }, {
+        "price" : 15,
+        "itemname" : "熱狗(3支)"
+      }, {
+        "price" : 30,
+        "itemname" : "蘿蔔糕"
+      }, {
+        "price" : 30,
+        "itemname" : "雞塊(6個)"
+      }, {
+        "price" : 30,
+        "itemname" : "薯條"
+      }, {
+        "price" : 40,
+        "itemname" : "檸檬雞柳(4條)"
+      }, {
+        "price" : 25,
+        "itemname" : "德式香腸"
+      }, {
+        "price" : 30,
+        "itemname" : "雞米花"
+      }, {
+        "price" : 50,
+        "itemname" : "香酥雞雞塊"
+      }, {
+        "price" : 50,
+        "itemname" : "洋蔥圈"
+      }, {
+        "price" : 40,
+        "itemname" : "鐵板麵(義大利/黑胡椒/蘑菇)"
+      }, {
+        "price" : 55,
+        "itemname" : "德式香腸潛艇堡"
+      }, {
+        "price" : 55,
+        "itemname" : "鮪魚起司潛艇堡"
+      }, {
+        "price" : 55,
+        "itemname" : "培根火腿起司潛艇堡"
+      }, {
+        "price" : 50,
+        "itemname" : "檸檬雞生菜捲"
+      }, {
+        "price" : 50,
+        "itemname" : "德式香腸生菜捲"
+      }, {
+        "price" : 50,
+        "itemname" : "培根火腿起司生菜捲"
+      }, {
+        "price" : 15,
+        "itemname" : "紅茶"
+      }, {
+        "price" : 15,
+        "itemname" : "奶茶"
+      }, {
+        "price" : 25,
+        "itemname" : "柳橙風味飲品"
+      }, {
+        "price" : 20,
+        "itemname" : "豆漿"
+      }, {
+        "price" : 30,
+        "itemname" : "鮮奶茶"
+      }, {
+        "price" : 10,
+        "itemname" : "加起司"
+      }, {
+        "price" : 5,
+        "itemname" : "加蛋"
+      } ]
+    }, {
+      "vendorname" : "茶覺",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 20,
+        "itemname" : "冬瓜茶"
+      }, {
+        "price" : 20,
+        "itemname" : "紅茶"
+      }, {
+        "price" : 20,
+        "itemname" : "綠茶"
+      }, {
+        "price" : 20,
+        "itemname" : "烏龍茶"
+      }, {
+        "price" : 20,
+        "itemname" : "青茶"
+      }, {
+        "price" : 20,
+        "itemname" : "伯爵紅茶"
+      }, {
+        "price" : 20,
+        "itemname" : "烏龍綠茶"
+      }, {
+        "price" : 20,
+        "itemname" : "蜜茶"
+      }, {
+        "price" : 30,
+        "itemname" : "蜂蜜伯爵紅茶"
+      }, {
+        "price" : 30,
+        "itemname" : "蜂蜜紅茶"
+      }, {
+        "price" : 30,
+        "itemname" : "蜂蜜綠茶"
+      }, {
+        "price" : 30,
+        "itemname" : "蜂蜜青茶"
+      }, {
+        "price" : 30,
+        "itemname" : "蜂蜜烏龍茶"
+      }, {
+        "price" : 30,
+        "itemname" : "蜂蜜烏龍綠茶"
+      }, {
+        "price" : 25,
+        "itemname" : "薄荷紅"
+      }, {
+        "price" : 25,
+        "itemname" : "薄荷綠"
+      }, {
+        "price" : 25,
+        "itemname" : "梅子紅"
+      }, {
+        "price" : 25,
+        "itemname" : "梅子綠"
+      }, {
+        "price" : 30,
+        "itemname" : "冬瓜檸檬"
+      }, {
+        "price" : 30,
+        "itemname" : "甘梅檸檬"
+      }, {
+        "price" : 30,
+        "itemname" : "蜂蜜檸檬汁"
+      }, {
+        "price" : 30,
+        "itemname" : "奶茶"
+      }, {
+        "price" : 30,
+        "itemname" : "冬瓜青"
+      }, {
+        "price" : 30,
+        "itemname" : "冬瓜紅"
+      }, {
+        "price" : 30,
+        "itemname" : "冬瓜綠"
+      }, {
+        "price" : 30,
+        "itemname" : "冬瓜烤"
+      }, {
+        "price" : 30,
+        "itemname" : "芒果紅"
+      }, {
+        "price" : 30,
+        "itemname" : "芒果綠"
+      }, {
+        "price" : 30,
+        "itemname" : "芒果青"
+      }, {
+        "price" : 30,
+        "itemname" : "百香綠"
+      }, {
+        "price" : 30,
+        "itemname" : "百香紅"
+      }, {
+        "price" : 35,
+        "itemname" : "蜂蜜蘆薈"
+      }, {
+        "price" : 30,
+        "itemname" : "鮮佶茶"
+      }, {
+        "price" : 30,
+        "itemname" : "檸檬紅"
+      }, {
+        "price" : 30,
+        "itemname" : "檸檬綠"
+      }, {
+        "price" : 30,
+        "itemname" : "檸檬青"
+      }, {
+        "price" : 30,
+        "itemname" : "薑母茶"
+      }, {
+        "price" : 35,
+        "itemname" : "蜂蜜奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "薄荷奶茶"
+      }, {
+        "price" : 30,
+        "itemname" : "茉香奶綠"
+      }, {
+        "price" : 35,
+        "itemname" : "焦糖奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "棒果奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "香草奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "巧克力奶茶"
+      }, {
+        "price" : 30,
+        "itemname" : "青奶茶"
+      }, {
+        "price" : 30,
+        "itemname" : "烏龍奶茶"
+      }, {
+        "price" : 30,
+        "itemname" : "伯爵奶茶"
+      }, {
+        "price" : 30,
+        "itemname" : "烏綠奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "珍珠奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "椰果奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "布丁奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "仙草凍奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "綠茶凍奶茶"
+      }, {
+        "price" : 35,
+        "itemname" : "咖啡凍奶茶"
+      }, {
+        "price" : 40,
+        "itemname" : "鮮柚綠茶"
+      }, {
+        "price" : 40,
+        "itemname" : "葡萄柚紅"
+      }, {
+        "price" : 40,
+        "itemname" : "葡萄柚綠"
+      }, {
+        "price" : 40,
+        "itemname" : "蜂蜜檸檬蘆薈"
+      }, {
+        "price" : 35,
+        "itemname" : "金佶檸檬"
+      }, {
+        "price" : 35,
+        "itemname" : "招牌咖啡500cc"
+      }, {
+        "price" : 35,
+        "itemname" : "抹茶奶綠"
+      }, {
+        "price" : 35,
+        "itemname" : "薄荷奶綠"
+      }, {
+        "price" : 40,
+        "itemname" : "OREO奶茶"
+      }, {
+        "price" : 40,
+        "itemname" : "養樂多紅/綠/百香/芒果/檸檬"
+      }, {
+        "price" : 40,
+        "itemname" : "養樂多綠"
+      }, {
+        "price" : 40,
+        "itemname" : "百香QQ綠茶"
+      }, {
+        "price" : 40,
+        "itemname" : "韓國柚子茶"
+      }, {
+        "price" : 40,
+        "itemname" : "美式黑咖啡500cc"
+      }, {
+        "price" : 40,
+        "itemname" : "調味咖啡(焦糖,棒果,香草)"
+      }, {
+        "price" : 40,
+        "itemname" : "美祿巧克力"
+      }, {
+        "price" : 45,
+        "itemname" : "拿鐵咖啡"
+      }, {
+        "price" : 45,
+        "itemname" : "紅茶拿鐵"
+      }, {
+        "price" : 45,
+        "itemname" : "綠茶拿鐵"
+      }, {
+        "price" : 45,
+        "itemname" : "伯爵紅茶拿鐵"
+      }, {
+        "price" : 45,
+        "itemname" : "青茶拿鐵"
+      }, {
+        "price" : 45,
+        "itemname" : "烏龍茶拿鐵"
+      }, {
+        "price" : 45,
+        "itemname" : "冬瓜鮮奶"
+      }, {
+        "price" : 50,
+        "itemname" : "調味拿鐵(焦糖,棒果,香草)"
+      }, {
+        "price" : 50,
+        "itemname" : "OREO可可"
+      }, {
+        "price" : 50,
+        "itemname" : "抹茶拿鐵"
+      }, {
+        "price" : 55,
+        "itemname" : "可可歐蕾"
+      } ]
+    }, {
+      "vendorname" : "豪享來",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 25,
+        "itemname" : "貢丸湯"
+      }, {
+        "price" : 25,
+        "itemname" : "蘿蔔湯"
+      }, {
+        "price" : 25,
+        "itemname" : "番茄蔬菜湯"
+      }, {
+        "price" : 40,
+        "itemname" : "餛飩湯"
+      }, {
+        "price" : 45,
+        "itemname" : "乾拌麵"
+      }, {
+        "price" : 45,
+        "itemname" : "紅油乾麵"
+      }, {
+        "price" : 45,
+        "itemname" : "貢丸麵"
+      }, {
+        "price" : 50,
+        "itemname" : "紅油炒手"
+      }, {
+        "price" : 50,
+        "itemname" : "番茄蔬菜麵"
+      }, {
+        "price" : 50,
+        "itemname" : "餛飩麵"
+      }, {
+        "price" : 50,
+        "itemname" : "榨菜肉絲麵"
+      }, {
+        "price" : 55,
+        "itemname" : "牛肉湯麵"
+      }, {
+        "price" : 60,
+        "itemname" : "紅油炒手麵"
+      }, {
+        "price" : 60,
+        "itemname" : "法式黑胡椒麵"
+      }, {
+        "price" : 70,
+        "itemname" : "雲吞蔬菜麵"
+      }, {
+        "price" : 70,
+        "itemname" : "豬肉/牛肉乾拌麵"
+      }, {
+        "price" : 80,
+        "itemname" : "炒泡麵(牛/豬)"
+      }, {
+        "price" : 80,
+        "itemname" : "鍋燒麵(牛/豬/雞)"
+      }, {
+        "price" : 75,
+        "itemname" : "排骨麵"
+      }, {
+        "price" : 75,
+        "itemname" : "雲吞牛肉湯麵"
+      }, {
+        "price" : 75,
+        "itemname" : "香嫩豬肉片麵"
+      }, {
+        "price" : 75,
+        "itemname" : "法式肉醬雞排麵"
+      }, {
+        "price" : 75,
+        "itemname" : "法式肉醬豬排麵"
+      }, {
+        "price" : 80,
+        "itemname" : "法式肉醬卡啦雞腿麵"
+      }, {
+        "price" : 80,
+        "itemname" : "法式肉醬燻雞培根麵"
+      }, {
+        "price" : 85,
+        "itemname" : "法式肉醬雞腿麵"
+      }, {
+        "price" : 90,
+        "itemname" : "法式肉醬牛排麵"
+      }, {
+        "price" : 75,
+        "itemname" : "法式黑胡椒雞排麵"
+      }, {
+        "price" : 75,
+        "itemname" : "法式黑胡椒豬排麵"
+      }, {
+        "price" : 80,
+        "itemname" : "法式黑胡椒卡啦雞腿麵"
+      }, {
+        "price" : 80,
+        "itemname" : "法式黑胡椒燻雞培根麵"
+      }, {
+        "price" : 85,
+        "itemname" : "法式黑胡椒雞腿麵"
+      }, {
+        "price" : 90,
+        "itemname" : "法式黑胡椒牛排麵"
+      }, {
+        "price" : 90,
+        "itemname" : "牛肉片麵"
+      }, {
+        "price" : 90,
+        "itemname" : "牛肉細粉"
+      }, {
+        "price" : 90,
+        "itemname" : "茄汁牛肉片麵"
+      } ]
+    }, {
+      "vendorname" : "雞同鴨講",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 50,
+        "itemname" : "四菜飯"
+      }, {
+        "price" : 65,
+        "itemname" : "煲肉飯"
+      }, {
+        "price" : 80,
+        "itemname" : "香腸飯"
+      }, {
+        "price" : 85,
+        "itemname" : "叉燒飯"
+      }, {
+        "price" : 85,
+        "itemname" : "油雞飯"
+      }, {
+        "price" : 85,
+        "itemname" : "香叉飯"
+      }, {
+        "price" : 85,
+        "itemname" : "叉雞飯"
+      }, {
+        "price" : 85,
+        "itemname" : "香雞飯"
+      }, {
+        "price" : 85,
+        "itemname" : "炸無骨密汁腿排飯"
+      }, {
+        "price" : 85,
+        "itemname" : "蔥燒豬肉飯"
+      }, {
+        "price" : 90,
+        "itemname" : "三寶飯"
+      }, {
+        "price" : 90,
+        "itemname" : "筍絲腿庫飯"
+      }, {
+        "price" : 95,
+        "itemname" : "三杯雞腿飯"
+      }, {
+        "price" : 95,
+        "itemname" : "烤雞腿飯"
+      }, {
+        "price" : 95,
+        "itemname" : "油雞腿飯"
+      }, {
+        "price" : 85,
+        "itemname" : "炸無骨黑豬排飯"
+      } ]
+    } ]
+  }, {
+    "restaurantname" : "二餐(活二)",
+    "vendorlist" : [ {
+      "vendorname" : "艋舺雞排",
+      "note" : "",
+      "itemList" : [ {
+        "price" : 95,
+        "itemname" : "爆汁嫩雞"
+      }, {
+        "price" : 95,
+        "itemname" : "天王雞排"
+      }, {
+        "price" : 95,
+        "itemname" : "辣妹雞排"
+      }, {
+        "price" : 95,
+        "itemname" : "梅子雞排"
+      }, {
+        "price" : 95,
+        "itemname" : "韓式雞排"
+      }, {
+        "price" : 95,
+        "itemname" : "雷茲雞排"
+      }, {
+        "price" : 95,
+        "itemname" : "滋滋酥雞"
+      }, {
+        "price" : 115,
+        "itemname" : "韓式辣醬嫩雞飯"
+      }, {
+        "price" : 55,
+        "itemname" : "玉米筍"
+      }, {
+        "price" : 55,
+        "itemname" : "花椰菜"
+      }, {
+        "price" : 55,
+        "itemname" : "甜不辣"
+      }, {
+        "price" : 55,
+        "itemname" : "脆皮薯條"
+      }, {
+        "price" : 55,
+        "itemname" : "地瓜薯條"
+      }, {
+        "price" : 55,
+        "itemname" : "啾咪球球"
+      }, {
+        "price" : 55,
+        "itemname" : "香酥雞皮"
+      }, {
+        "price" : 55,
+        "itemname" : "煉乳小饅頭"
+      } ]
+    } ]
+  } ]
+}
