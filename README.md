@@ -1,0 +1,5 @@
+- this is a cafeteria system for NTUST recently
+- written in Java, managed by Maven
+- run App.java
+- original intention: everyone can view the photos of dishes uploaded by those who have eaten them, for some reasons this system doesn't provide upload functiona and photos yet
+- it provides random function, it is used to get random all, restaurant, vendor, item
