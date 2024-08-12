@@ -1,0 +1,2 @@
+- this is a cafeteria system for NTUST recently
+- written in Java, managed by Maven
