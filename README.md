@@ -1,5 +1,5 @@
-- written in Java, managed by Maven
-- run App.java
+- written in **Java**, managed by **Maven**
+- run **App.java**
 - u can write code below in App.java to update school data also NTUST.json, u will see the change in the system, and it takes a little time
 ```java
 ParseExcel.parseExcel("NTUST")
